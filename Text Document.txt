@@ -1,1 +1,1 @@
-branch2
+Произвел слияние веток branch1 и branch2!
